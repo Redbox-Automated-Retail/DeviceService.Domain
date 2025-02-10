@@ -4,3 +4,6 @@
 [submodule "lib/DeviceService.ComponentModel"]
 	path = lib/DeviceService.ComponentModel
 	url = https://github.com/Redbox-Automated-Retail/DeviceService.ComponentModel
+[submodule "lib/RBA_SDK_ComponentModel"]
+	path = lib/RBA_SDK_ComponentModel
+	url = https://github.com/Redbox-Automated-Retail/RBA_SDK_ComponentModel
